@@ -1,0 +1,5 @@
+{
+  "name": "Simulax AI",
+  "description": "Transform static PDF Standard Operating Procedures into an interactive, intelligent voice assistant and analyst using Google Gemini.",
+  "requestFramePermissions": []
+}
